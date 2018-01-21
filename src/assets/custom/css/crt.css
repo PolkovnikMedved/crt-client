@@ -1,0 +1,32 @@
+main{
+  margin-top:60px;
+  margin-bottom:50px;
+}
+
+#bottom-text{
+  margin:auto;
+}
+
+.fa-big{
+  font-size:1.3em;
+}
+
+.one-hundred{
+  width:100px;
+}
+
+.round{
+  border-radius: 50%;
+}
+
+.custom-modal{
+  padding:10px;
+}
+
+.full-width{
+  width: 100%;
+}
+
+.nice-padding{
+  padding:10px;
+}
